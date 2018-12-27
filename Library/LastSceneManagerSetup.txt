@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scenes/casa.unity
+  isLoaded: 1
+  isActive: 1
